@@ -23,7 +23,7 @@ return(
      <Route path='/about' component={About} />
      <Route path='/contact' component={Contact} />
      <Route component={PageNotFound} />
-
+      
      </Switch>
   </div>
 )
